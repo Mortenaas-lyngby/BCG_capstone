@@ -22,6 +22,9 @@ Through this repository, you will find 5 official notebooks:
 
 5. **BCG X SARIMA Model**: For Stock prediction, we analyse branches and product demand in a weekly and monthly basis. We achieve significant performance.
 
+
+**Additional Notebooks**: We explore other machine learning models (mainly boosting) and consolidate some analysis together to show the power of a combined approach based on customer segmentation, churn probability and associated monetary risk of losing that customer.
+
 ## Making it work!
 - Step 1 - notebooks/: Download the notebooks to your machine.
 - Step 2 - data/: create a data/ folder within the folder where you placed the notebooks. Toss the datasets there.
